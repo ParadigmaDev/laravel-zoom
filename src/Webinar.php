@@ -28,6 +28,7 @@ class Webinar extends Model
         'timezone' => '', // string
         'password' => '', // string
         'agenda' => '', // string
+        'start_url' => '',
         'recurrence' => [],
         'occurrences' => [],
         'settings' => [],
